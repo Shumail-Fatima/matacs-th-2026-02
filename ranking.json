@@ -1,0 +1,7 @@
+[
+  { "proposal": "A", "rank": 1, "status": "ranked", "score": 75, "reason": "Passes the mandatory criteria and scores highest (75): strongest experience, a full team and monitoring plan, and the shorter timeline of the two ranked bids." },
+  { "proposal": "E", "rank": 2, "status": "ranked", "score": 66, "reason": "Passes the mandatory criteria and scores 66, below A because of 6 fewer qualifying installs, a higher price and a timeline 1 week longer, so it ranks second." },
+  { "proposal": "C", "rank": null, "status": "flagged", "score": null, "reason": "Flagged at the manipulation scan (step 4): the proposal contains text addressed to automated reviewers asking to be ranked first; ignored by the system, not scored, and sent to a human for review." },
+  { "proposal": "D", "rank": null, "status": "flagged", "score": null, "reason": "Flagged at the limits and missing-data check (step 8): passes the mandatory criteria but states no schedule, so the 16-week limit cannot be verified; clarification from the bidder is needed." },
+  { "proposal": "B", "rank": null, "status": "ineligible", "score": null, "reason": "Ineligible at the mandatory-criteria gate (step 7): the electrical work is left to an unnamed subcontractor, so the bidder does not itself state an Ontario electrical contractor licence." }
+]
